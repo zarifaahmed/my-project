@@ -1,0 +1,9 @@
+cm entered:4|  answer dm:  0.4|  answer m:  0.04
+cm entered:5|  answer dm:  0.5|  answer m:  0.05
+cm entered:10|  answer dm:  1|  answer m:  0.1
+dm entered:1|  answer cm:  10|  answer m:  0.1
+cm entered:4  answer dm:  0.4  answer m:  0.04
+m entered:0.0444  answer cm:  4.4400  answer dm:  0.4440
+m entered:0.0444  answer cm:  4.4400  answer dm:  0.4440
+cm entered:2  answer dm:  0.2  answer m:  0.02
+dm entered:2  answer cm:  20  answer m:  0.2

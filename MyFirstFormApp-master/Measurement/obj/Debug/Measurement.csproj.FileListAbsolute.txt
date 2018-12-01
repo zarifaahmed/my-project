@@ -1,0 +1,9 @@
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\bin\Debug\Measurement.exe.config
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\bin\Debug\Measurement.exe
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\bin\Debug\Measurement.pdb
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\obj\Debug\Measurement.Form1.resources
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\obj\Debug\Measurement.Properties.Resources.resources
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\obj\Debug\Measurement.csproj.GenerateResource.Cache
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\obj\Debug\Measurement.csproj.CoreCompileInputs.cache
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\obj\Debug\Measurement.exe
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\Measurement\obj\Debug\Measurement.pdb

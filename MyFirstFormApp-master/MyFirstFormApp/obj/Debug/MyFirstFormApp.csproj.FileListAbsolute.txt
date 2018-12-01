@@ -1,0 +1,10 @@
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\bin\Debug\MyFirstFormApp.exe.config
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\bin\Debug\MyFirstFormApp.exe
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\bin\Debug\MyFirstFormApp.pdb
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\obj\Debug\MyFirstFormApp.csprojResolveAssemblyReference.cache
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\obj\Debug\MyFirstFormApp.Form1.resources
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\obj\Debug\MyFirstFormApp.Properties.Resources.resources
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\obj\Debug\MyFirstFormApp.csproj.GenerateResource.Cache
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\obj\Debug\MyFirstFormApp.csproj.CoreCompileInputs.cache
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\obj\Debug\MyFirstFormApp.exe
+C:\Users\ZarifaAa\Desktop\MyFirstFormApp-master\MyFirstFormApp\obj\Debug\MyFirstFormApp.pdb
