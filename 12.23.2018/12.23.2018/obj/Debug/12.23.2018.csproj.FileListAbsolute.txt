@@ -1,0 +1,7 @@
+c:\users\zarifaaa\source\repos\12.23.2018\12.23.2018\bin\Debug\12.23.2018.exe.config
+c:\users\zarifaaa\source\repos\12.23.2018\12.23.2018\bin\Debug\12.23.2018.exe
+c:\users\zarifaaa\source\repos\12.23.2018\12.23.2018\bin\Debug\12.23.2018.pdb
+c:\users\zarifaaa\source\repos\12.23.2018\12.23.2018\obj\Debug\12.23.2018.csprojResolveAssemblyReference.cache
+c:\users\zarifaaa\source\repos\12.23.2018\12.23.2018\obj\Debug\12.23.2018.csproj.CoreCompileInputs.cache
+c:\users\zarifaaa\source\repos\12.23.2018\12.23.2018\obj\Debug\12.23.2018.exe
+c:\users\zarifaaa\source\repos\12.23.2018\12.23.2018\obj\Debug\12.23.2018.pdb
